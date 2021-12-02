@@ -1,0 +1,15 @@
+.\objects\cx32l003_it.o: FWLB\src\cx32l003_it.c
+.\objects\cx32l003_it.o: .\DEVICE\cx32l003.h
+.\objects\cx32l003_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\cx32l003_it.o: C:\Keil_v5\Sky\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h
+.\objects\cx32l003_it.o: C:\Keil_v5\Sky\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\cx32l003_it.o: C:\Keil_v5\Sky\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\cx32l003_it.o: C:\Keil_v5\Sky\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\cx32l003_it.o: .\DEVICE\system_cx32l003.h
+.\objects\cx32l003_it.o: .\USER\inc\user_internalFlash.h
+.\objects\cx32l003_it.o: .\USER\inc\const.h
+.\objects\cx32l003_it.o: .\FWLB\inc\misc.h
+.\objects\cx32l003_it.o: .\FWLB\inc\cx32l003_conf.h
+.\objects\cx32l003_it.o: .\FWLB\inc\cx32l003_i2c.h
+.\objects\cx32l003_it.o: .\FWLB\inc\cx32l003_conf.h
+.\objects\cx32l003_it.o: .\FWLB\inc\cx32l003_flash.h
